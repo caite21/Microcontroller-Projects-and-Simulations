@@ -1,5 +1,3 @@
 # Microcontroller-Projects-and-Simulations
 
-Mulitplexing/Charlieplexing LEDs
-[Simulation Link](led-mulitplexing/led-simulation.png)
-
+[![Simulation Link](led-multiplexing/led-simulation.png?raw=true "LED Multiplexing Simulation")
