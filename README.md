@@ -1,6 +1,8 @@
 # Microcontroller-Projects-and-Simulations
 You can interact with the simulations by clicking the green play button in the top left corner!
 
+Also see [STM32L412KB-UART](https://github.com/caite21/STM32L412KB-UART) for another STM32 Nucleo project.
+
 
 ## [Raspberry Pi Pico LED Multiplexing Circuits](https://wokwi.com/projects/402600052539404289)  <a align="right" href="https://github.com/caite21/Microcontroller-Projects-and-Simulations/tree/main/led-multiplexing">📁</a>
 This project showcases two LED control circuits using the Raspberry Pi Pico C SDK. The top circuit illustrates Charlieplexing (tristate multiplexing), while the bottom circuit demonstrates traditional multiplexing. Two debounced push buttons trigger interrupts to change the LED lighting patterns. 
